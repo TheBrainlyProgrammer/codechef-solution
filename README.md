@@ -1,2 +1,2 @@
 # codechef-solution
-All myde soutions are uploaded here
+All my codechef soutions are uploaded here
